@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <dimen name="sizeButtonText">20sp</dimen>
+        <dimen name="sizeEditText">24sp</dimen>
+        <dimen name="sizeEditTextLand">24sp</dimen>
+    <dimen name="sizeTextView">72sp</dimen>
+
+</resources>
