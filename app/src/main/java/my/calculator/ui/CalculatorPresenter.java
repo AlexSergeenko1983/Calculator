@@ -37,6 +37,7 @@ public class CalculatorPresenter implements Serializable {
     }
 
 
+//    Нажатие кнопки числа
     public void onDigitPressed(double digit) {
 
         if (!point) {
